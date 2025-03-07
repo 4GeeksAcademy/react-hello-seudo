@@ -6,11 +6,11 @@ const Home = () => {
 	
 	return (
 		<div className="text-center">
-           <button>Orangle</button>
+           <button className="labelOne">Orange</button>
            <button>Apple</button>
            <button>Broccoli</button>
-		   <p>I like, I like, to eat nothing</p>
-		<Modal />
+		   <p>I like, I like, to eat Orange</p>
+			<Modal />
 		</div>
 	);
 };
