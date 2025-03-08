@@ -37,6 +37,11 @@ const Home = () => {
 		glasses: false
 	},
 ]
+
+const allStudents = [];
+const youngStudents = [];
+const noGlasses = [];
+
 	
 	return (
 		<div className="text-center">
