@@ -47,8 +47,14 @@ const Home = () => {
 					</div>
 				)
 			})}
+			{/* all students */}
+			<h1>all students!!</h1>
 
-		   <p>I like, I like, to eat nothing</p>
+			{/* students under 18 */}
+			<h1>Young students!</h1>
+
+			{/* students with no glasses */}
+				<h1>No Glasses</h1>
 		<Modal />
 		</div>
 	);
